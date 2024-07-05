@@ -10,7 +10,7 @@ Background information available [here](/docs/proj_intro.pdf)
 
 **Group 1 (Quartet Concordance Factors for Networks Beyond Level-1)**
 
-Group Leader: Elizabeth Allman <esallman@alaska.edu>\
+Elizabeth Allman <esallman@alaska.edu> (Group Leader)\
 Aviva Englander <akenglander@wisc.edu>\
 Dimitrios Diamantidis <didiaman@iu.edu>\
 Jennifer Garbett <jennifer.garbett@lr.edu>\
