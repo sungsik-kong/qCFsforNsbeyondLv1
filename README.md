@@ -6,8 +6,7 @@
 
 Quartet Concordance Factors for Networks Beyond Level-1 project site at Algebraic Methods in Phylogenetics, University of Hawaiʻi at Mānoa, HI., USA, July 20 - 24, 2024
 
-Proposal [here](docs/Project1ConcordanceFactors.pdf)
-Introduction [here](/docs/proj_intro.pdf)
+**Proposal** [here](docs/Project1ConcordanceFactors.pdf) and **introduction** [here](/docs/proj_intro.pdf)
 
 # Participants
 
