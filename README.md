@@ -27,6 +27,6 @@ Matthew Trang <ttrang2019@fau.edu>
 
 # Reading list
 
-Background paper can be downloaded [here](/docs/background_papers.zip)
+Background paper can be downloaded [here](https://github.com/sungsik-kong/qCFsforNsbeyondLv1/blob/main/docs/background_papers.zip)
 
 # Homework
