@@ -2,14 +2,13 @@
 
 ![https://www.aquaaston.com/destinations/oahu/waikiki](/images/waikiki.jpg)
 
-![Kong et al.](/images/network.jpg =250x){: style="float: left"}
+![Kong et al.](/images/network.jpg){: style="float: left"}
 
 Quartet Concordance Factors for Networks Beyond Level-1 project site at Algebraic Methods in Phylogenetics, University of Hawaiʻi at Mānoa, HI., USA, July 20 - 24, 2024
 
 Introduction [here](/docs/proj_intro.pdf)
 
 # Participants
-
 
 Elizabeth Allman <esallman@alaska.edu> (Group Leader)\
 Aviva Englander <akenglander@wisc.edu>\
