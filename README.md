@@ -2,10 +2,11 @@
 
 ![https://www.aquaaston.com/destinations/oahu/waikiki](/images/waikiki.jpg)
 
-![Kong et al.](/images/network.jpg){: style="float: left", width: 200px; }
+![Kong et al.](/images/network.jpg){: style="float: left"}
 
 Quartet Concordance Factors for Networks Beyond Level-1 project site at Algebraic Methods in Phylogenetics, University of Hawaiʻi at Mānoa, HI., USA, July 20 - 24, 2024
 
+Proposal [here](docs/Project1ConcordanceFactors.pdf)
 Introduction [here](/docs/proj_intro.pdf)
 
 # Participants
@@ -17,6 +18,8 @@ Jennifer Garbett <jennifer.garbett@lr.edu>\
 Sungsik (Kevin) Kong <sungsik.kong@gmail.com>\
 Ikenna Nometa <inometa@hawaii.edu>\
 Matthew Trang <ttrang2019@fau.edu>
+
+
 
 # Reading list
 
