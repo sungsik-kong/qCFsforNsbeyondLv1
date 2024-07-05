@@ -10,7 +10,7 @@ Quartet Concordance Factors for Networks Beyond Level-1 project site at Algebrai
 
 # Participants
 
-Elizabeth Allman <esallman@alaska.edu> (Group Leader)\
+**(Group Leader)** Elizabeth Allman <esallman@alaska.edu>\
 Aviva Englander <akenglander@wisc.edu>\
 Dimitrios Diamantidis <didiaman@iu.edu>\
 Jennifer Garbett <jennifer.garbett@lr.edu>\
