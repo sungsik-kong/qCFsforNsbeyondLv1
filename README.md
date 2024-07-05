@@ -19,7 +19,7 @@ Matthew Trang <ttrang2019@fau.edu>
 
 # Reading list
 
-Background papers are [here](https://github.com/sungsik-kong/qCFsforNsbeyondLv1/blob/main/docs/background_papers.zip) (Right click > Download Linked File) that includes the following papers:
+Background papers are [here](/files/background_papers.zip) that includes the following papers:
 
 - [Gambette et al. (2009) The Structure of Level-k Phylogenetic Networks](/docs/background_papers/2009GambetteBerryPaulGenerators.pdf)
 - [Baños (2018) Identifying Species Network Features from Gene Tree Quartets Under the Coalescent Model](/docs/background_papers/Banos-2018-Bulletin_of_Mathematical_Biology.pdf)
