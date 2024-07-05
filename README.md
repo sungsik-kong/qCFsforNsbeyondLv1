@@ -9,13 +9,13 @@ Background information available [here](/docs/proj_intro.pdf)
 # Participants
 
 **Group 1 (Quartet Concordance Factors for Networks Beyond Level-1)**
-Group Leader: Elizabeth Allman <esallman@alaska.edu>\\
-Aviva Englander <akenglander@wisc.edu>\\
-Dimitrios Diamantidis <didiaman@iu.edu>\\
-Jennifer Garbett <jennifer.garbett@lr.edu>\\
-Sungsik (Kevin) Kong <sungsik.kong@gmail.com>\\
-Ikenna Nometa <inometa@hawaii.edu>\\
-Matthew Trang <ttrang2019@fau.edu>
+Group Leader: Elizabeth Allman <esallman@alaska.edu>\
+Aviva Englander <akenglander@wisc.edu>\
+Dimitrios Diamantidis <didiaman@iu.edu>\
+Jennifer Garbett <jennifer.garbett@lr.edu>\
+Sungsik (Kevin) Kong <sungsik.kong@gmail.com>\
+Ikenna Nometa <inometa@hawaii.edu>\
+Matthew Trang <ttrang2019@fau.edu>\
 
 # Reading list
 
