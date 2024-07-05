@@ -1,4 +1,5 @@
-# qCFsforNsbeyondLv1
+# Quartet Concordance Factors for Networks Beyond Level-1
+
 Quartet Concordance Factors for Networks Beyond Level-1 project site at Algebraic Methods in Phylogenetics, University of Hawaii, HI., USA, July 20 - 24, 2024
 
 Introduction [here](/docs/proj_intro.pdf)
