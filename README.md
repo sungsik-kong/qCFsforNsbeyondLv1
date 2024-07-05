@@ -27,4 +27,6 @@ Matthew Trang <ttrang2019@fau.edu>
 
 # Reading list
 
+Background paper can be downloaded [here](/docs/background_papers.zip)
+
 # Homework
