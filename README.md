@@ -6,7 +6,7 @@
 
 Quartet Concordance Factors for Networks Beyond Level-1 project site at Algebraic Methods in Phylogenetics, University of Hawaiʻi at Mānoa, HI., USA, July 20 - 24, 2024
 
-**Proposal** [here](docs/Project1ConcordanceFactors.pdf) and **introduction** [here](/docs/proj_intro.pdf)
+See **proposal** [here](docs/Project1ConcordanceFactors.pdf)
 
 # Participants
 
@@ -20,7 +20,7 @@ Matthew Trang <ttrang2019@fau.edu>
 
 
 
-# Reading list
+# Reading List
 
 Background papers are [here](/files/background_papers.zip) that includes the following papers:
 
@@ -33,6 +33,6 @@ Background papers are [here](/files/background_papers.zip) that includes the fol
 - [Allman et al. (2011) Identifying the rooted species tree from the distribution of unrooted gene trees under the coalescent](/docs/background_papers/UGT-s00285-010-0355-7.pdf)
 
 
-# Homework
+# Homeworks
 
-Nothing yet
+- July-05-2024 [Introduction](/docs/proj_intro.pdf)
