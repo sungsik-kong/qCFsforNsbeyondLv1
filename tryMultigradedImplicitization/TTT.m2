@@ -1,4 +1,4 @@
-loadPackage "MultigradedImplicitization"
+needsPackage "MultigradedImplicitization"
 needsPackage "NumericalAlgebraicGeometry"
 
 R = QQ[R1,X10,X11,X12,X15,X16,X4,X7,X8,Z]
@@ -215,32 +215,24 @@ params = polySystem {
 (((X10*X4)/3)*R1+(X4/3)*(1-R1))}
 
 
-Wh = homogenize(params,R,Z)
---netList entries Wh#PolyMap
+
+-- New brute force solution
+W = params;
+L = flatten entries W#PolyMap; -- make a list of the polynomials
+
+-- Get Maximum degree of the polynomials
+D = for i in L list degree i;
+maxdeg = max flatten D
+
+-- Make all polynomials have the same degree
+NewSystem = flatten for j in L list Z^(maxdeg - (flatten degree(j))_0) * j;
+
+-- Now work with the new system
+W2 = polySystem NewSystem;
+Wh = homogenize(W2,R,Z)
 Wh2 = flatten entries Wh#PolyMap
-
-S = QQ[C_1..C_210]
-
-phi = map(R,S, Wh2)
-
-G3 = componentsOfKernel(1, phi)
-
-print " "
-print peek G3
-
--*
-W = polySystem {
-(((X10*X4)/3)*R1+(X4/3)*(1-R1)),
-(((X10*X4)/3)*R1+(X4/3)*(1-R1))}
-
-Wh = homogenize(W,R,Z)
-Wh2 = flatten entries Wh#PolyMap
-S2 = QQ[C_1,C_2]
-
+S2 = QQ[C_1..C_210]
 phi = map(R,S2, Wh2)
 G3 = componentsOfKernel(1, phi)
-
 print " "
-print peek G3
-*-
-
+peek G3 -- seems peek G3 has better display than its print version
