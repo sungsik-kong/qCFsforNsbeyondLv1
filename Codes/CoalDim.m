@@ -1,3 +1,11 @@
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%% Function to compute the dimension of the image of a CF parametrization %%%%%%%%%%
+%%%%%%%% given parameters and CFs                                               %%%%%%%%%%
+%%%%%%%% Ikenna Nometa (inometa@hawaii.edu)                                     %%%%%%%%%%
+%%%%%%%% Created: Oct. 2024 @ICERM                                              %%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 function D = CoalDim(c, d)
     n_equations = length(c); % number of equations (or number of C's in the ideal)
     n_parameters = length(d) - n_equations;% number of parameters in X's and R's
