@@ -1,4 +1,12 @@
 function D = CoalDimnumeric(c,d2,trials)
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%% Function to numerically compute the dimension of the image of          %%%%%%%%%%
+%%%%%%%% a CF parametrization given parameters and CFs                          %%%%%%%%%%
+%%%%%%%% Aviva Englander (akenglander@wisc.edu)                                 %%%%%%%%%%
+%%%%%%%% Created: Dec. 2024                                                     %%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 % trials - number of numerical tries
 % c - equations of CFs    
 % d - list of variables
